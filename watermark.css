@@ -1,7 +1,8 @@
 .watermark{
-    background:"output-onlinepngtools.png" center center no-repeat;opacity:0.6;
+    background:url("output-onlinepngtools.png") center center no-repeat;opacity:0.6;
   opacity: 0.6;
   position: absolute;
   width: 100%;
   height: 100%;
 }
+url("output-onlinepngtools.png")
